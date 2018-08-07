@@ -38,3 +38,7 @@
                                                   
 ```
 A binary viewer written in java. Has a built-in hex viewer and can edit binary in an easy fashion.
+
+## To install
+ 1. Add both `` and `` to the eclipse workspace.
+ 2. 
