@@ -41,6 +41,25 @@ A binary viewer written in java. Has a built-in hex viewer and can edit binary i
 
 ## Screenshots
 
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn1.PNG]]
+Homepage
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn2.PNG]]
+Create new file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn3.PNG]]
+Viewing empty file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn4.PNG]]
+Editing a file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn5.PNG]]
+Saving a file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn6.PNG]]
+Opening a file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn7.PNG]]
+Viewing a file
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn8.PNG]]
+Viewing byte and bit info
+[[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn9.PNG]]
+Seeing the bytes with the built-in hex viewer
+
 ## To run
  1. Use the provided jar file in the format `binary_viewer-[VERSION].jar`.
 
