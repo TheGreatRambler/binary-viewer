@@ -68,6 +68,12 @@ Seeing the bytes with the built-in hex viewer
  2. Edit as you see fit.
  3. To build, go to `File -> Export -> Java -> Runnable JAR file` and choose the location, then press `Finish`. It will extract files when it is run and will put them in its location, so make sure you put the JAR in a folder.
 
+## Usage
+
+To pan: Hold left mouse button and drag.
+To Zoom: Hold right mouse button and drag.
+To draw: Choose a bit to draw on the right and hold shift to draw.
+
 ## License
 ```
 Copyright 2018 TheGreatRambler
