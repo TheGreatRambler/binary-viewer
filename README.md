@@ -47,7 +47,7 @@ A binary viewer written in java. Has a built-in hex viewer and can edit binary i
 ## To edit or build
  1. Add both `binary_viewer` and `jhexviewer` to the eclipse workspace.
  2. Edit as you see fit.
- 3. To build, go to `File -> Export -> Java -> Runnable JAR file` and choose the location, then press `Finish`.
+ 3. To build, go to `File -> Export -> Java -> Runnable JAR file` and choose the location, then press `Finish`. It will extract files when it is run and will put them in its location, so make sure you put the JAR in a folder.
 
 ## License
 ```
