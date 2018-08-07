@@ -41,7 +41,7 @@ A binary viewer written in java. Has a built-in hex viewer and can edit binary i
 
 ## Screenshots
 
-!(https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn1.PNG)
+![](https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn1.PNG)
 Homepage
 !()[https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn2.PNG]
 Create new file
