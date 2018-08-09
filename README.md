@@ -57,8 +57,6 @@ Opening a file
 Viewing a file
 ![](https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn8.PNG)
 Viewing byte and bit info
-![](https://github.com/TheGreatRambler/binary-viewer/blob/master/screenshots/scrn9.PNG)
-Seeing the bytes with the built-in hex viewer
 
 ## To run
  1. Use the provided jar file in the format `binary_viewer-[VERSION].jar`.
