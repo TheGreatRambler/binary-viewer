@@ -59,7 +59,7 @@ Viewing a file
 Viewing byte and bit info
 
 ## To run
- 1. Use the provided jar file in the format `binary_viewer-[VERSION].jar`.
+ 1. Use the provided jar file in the format `binary_viewer-[VERSION].jar`. The jar fine will extract assets to its locating, so put the Jar in its own folder.
 
 ## To edit or build
  1. Add both `binary_viewer` and `jhexviewer` to the eclipse workspace.
