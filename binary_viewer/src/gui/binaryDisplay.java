@@ -35,8 +35,23 @@ public class binaryDisplay extends PCanvas {
     private int pagesCreated = 0;
     private byte[] currentBytes;
     private int bitsInPage;
-    @SuppressWarnings("unused")
-	private String[] hexStringOfPagedBytes;
+    
+	// constructor
+	binaryDisplay() {
+		// call constructor of parent
+		super();
+		
+		// remove default zoom handler
+		removeInputEventListener(getZoomEventHandler());
+		
+		// set zoom to mouse wheel zoom
+		PMouseWheelZoomEventHandler mouseWheelZoom = new PMouseWheelZoomEventHandler();
+        	mouseWheelZoom.zoomAboutMouse();
+		// make direction the default
+		// also controls how fast it is
+        	mouseWheelZoom.setScaleFactor(-0.1);
+        	addInputEventListener(mouseWheelZoom); 
+	}
 
     private PPath getBitBox(int bitNum, Color fColor, Color bColor) {
         int x = (bitNum % settings.binaryWidth) * (settings.binaryBoxWidth + 2);
