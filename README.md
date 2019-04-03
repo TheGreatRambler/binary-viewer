@@ -62,9 +62,13 @@ Viewing byte and bit info
  1. Use the provided jar file in the format `binary_viewer-[VERSION].jar`. The jar fine will extract assets to its locating, so put the Jar in its own folder.
 
 ## To edit or build
+### With Eclipse
  1. Add both `binary_viewer` and `jhexviewer` to the eclipse workspace.
  2. Edit as you see fit.
  3. To build, go to `File -> Export -> Java -> Runnable JAR file` and choose the location, then press `Finish`. It will extract files when it is run and will put them in its location, so make sure you put the JAR in a folder.
+ 
+### Without Eclipse
+To be added...
 
 ## Usage
 
